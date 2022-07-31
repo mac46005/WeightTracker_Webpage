@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'WeightTrck_ClassLib\\' => array($baseDir . '/src'),
+    'WghtTrackApp_ClassLib\\' => array($baseDir . '/src'),
 );
